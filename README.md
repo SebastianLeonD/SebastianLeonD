@@ -6,99 +6,20 @@ I'm a high school junior who's genuinely into all of it — cybersecurity, compu
 
 I like to build before I learn — there's no reason to sit around waiting. Innovating with AI has introduced me to concepts a regular CS student would have waited years to touch. By leveraging AI as my assistant, I've been able to create even when I barely know the underlying theory. Why wait to learn when you can learn as you create?
 
-Everything here is something I've shipped, launched, or actively maintain.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianleondiaz)
 
 ---
 
 ### What I've Built
 
-#### [Focus Grade Calculator](https://chromewebstore.google.com/detail/focus-grade-calculator/kgmcmnipeaiklodeglhndfiniojdaggo)
-
-Chrome extension that lets students simulate hypothetical assignments and instantly see the impact on their grade. Supports weighted/unweighted grading, GPA projection, multiple themes, and undo/redo — all running 100% locally in the browser.
-
-`Chrome Extension` `Vanilla JS` `Manifest V3`
-
-[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Live-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/focus-grade-calculator/kgmcmnipeaiklodeglhndfiniojdaggo)
-[![GitHub](https://img.shields.io/badge/Source-Public-181717?style=flat&logo=github)](https://github.com/SebastianLeonD/focus-grade-calculator)
-
-<p>
-  <img src="images/focus-grade-1.jpg" width="49%" />
-  <img src="images/focus-grade-2.jpg" width="49%" />
-</p>
-<p>
-  <img src="images/focus-gpa-1.png" width="49%" />
-  <img src="images/focus-gpa-2.png" width="49%" />
-</p>
-
----
-
-#### [leonis.study](https://leonis.study)
-
-AI-powered study platform that syncs with your school's Canvas LMS, pulls in all your course materials, and generates study guides, quizzes, and flashcards using AI. Includes an AI tutor, real-time sync, and Stripe-powered subscriptions.
-
-`React` `TypeScript` `Supabase` `Gemini AI` `Stripe`
-
-[![Live Site](https://img.shields.io/badge/leonis.study-Live-1f6feb?style=flat&logo=googlechrome&logoColor=white)](https://leonis.study)
-
-<p>
-  <img src="images/leonis-landing.png" width="100%" />
-</p>
-<p>
-  <img src="images/leonis-dashboard.png" width="49%" />
-  <img src="images/leonis-study-guide.png" width="49%" />
-</p>
-
----
-
-#### [Reminders](https://github.com/SebastianLeonD/reminderapp)
-
-Voice-first, AI-powered reminder app. Speak naturally and AI handles categories, priorities, timing, and alert schedules. Built with a simple stack — FastAPI backend, single-file PWA frontend, SQLite storage, and Gemini for natural language parsing.
-
-`Python` `FastAPI` `SQLite` `Gemini AI` `PWA`
-
-[![GitHub](https://img.shields.io/badge/Source-Open_Source-181717?style=flat&logo=github)](https://github.com/SebastianLeonD/reminderapp)
-
-<p align="center">
-  <img src="images/reminder-today.PNG" width="30%" />
-  <img src="images/reminder-create.PNG" width="30%" />
-  <img src="images/reminder-detail.PNG" width="30%" />
-</p>
-
----
-
-#### The Leon Advisor
-
-AI-powered personal financial adviser. Helps users manage and understand their finances through intelligent conversations and data-driven insights.
-
-`Next.js` `TypeScript` `Prisma` `AI`
-
-![Private](https://img.shields.io/badge/Source-Private-6e7681?style=flat&logo=lock&logoColor=white)
-
-<p>
-  <img src="images/leon-advisor.png" width="100%" />
-</p>
-
----
-
-#### JavaVision
-
-Browser-based Java IDE built for students. Write Java code and visualize exactly what it does — step through execution, see the stack and heap in real time, and get AI-powered explanations. Designed to make abstract CS concepts tangible.
-
-`Next.js` `TypeScript` `Monaco Editor` `Gemini AI` `Docker`
-
-![In Development](https://img.shields.io/badge/Status-In_Development-d29922?style=flat)
-
----
-
-#### AI Study Helper
-
-Chrome extension that puts an AI assistant right in your browser. Highlight text to get explanations, take screenshots for AI analysis, and chat with an AI tutor from any webpage — including built-in support for Canvas LMS quizzes.
-
-`Chrome Extension` `Vanilla JS` `Gemini AI` `Manifest V3`
-
-![Private](https://img.shields.io/badge/Source-Private-6e7681?style=flat&logo=lock&logoColor=white)
+| Project | What It Is | Links |
+|---------|-----------|-------|
+| **leonis.study** | AI study platform — syncs with Canvas LMS, generates study guides, quizzes, and flashcards with an AI tutor | [![Live](https://img.shields.io/badge/leonis.study-Live-1f6feb?style=flat)](https://leonis.study) [![Repo](https://img.shields.io/badge/Showcase-181717?style=flat&logo=github)](https://github.com/SebastianLeonD/leonis.study) |
+| **Focus Grade Calculator** | Chrome extension for simulating hypothetical grades on the Focus gradebook | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-Live-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/focus-grade-calculator/kgmcmnipeaiklodeglhndfiniojdaggo) [![Repo](https://img.shields.io/badge/Source-181717?style=flat&logo=github)](https://github.com/SebastianLeonD/focus-grade-calculator) |
+| **Reminders** | Voice-first, AI-powered reminder app — speak naturally and AI parses everything | [![Repo](https://img.shields.io/badge/Source-181717?style=flat&logo=github)](https://github.com/SebastianLeonD/reminderapp) |
+| **The Leon Advisor** | AI-powered personal financial adviser with real-time market data and investment plans | [![Repo](https://img.shields.io/badge/Showcase-181717?style=flat&logo=github)](https://github.com/SebastianLeonD/the-leon-advisor) |
+| **JavaVision** | Browser-based Java IDE that visualizes code execution — stack, heap, and step-by-step debugging | ![In Dev](https://img.shields.io/badge/In_Development-d29922?style=flat) |
+| **AI Study Helper** | Chrome extension — AI assistant on any webpage with screenshot analysis and Canvas LMS support | ![Private](https://img.shields.io/badge/Private-6e7681?style=flat) |
 
 ---
 
@@ -117,6 +38,5 @@ Chrome extension that puts an AI assistant right in your browser. Highlight text
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" />
