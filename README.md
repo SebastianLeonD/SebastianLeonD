@@ -14,11 +14,8 @@ Everything here is something I've shipped, launched, or actively maintain.
 
 ### What I've Built
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 #### [Focus Grade Calculator](https://chromewebstore.google.com/detail/focus-grade-calculator/kgmcmnipeaiklodeglhndfiniojdaggo)
+
 Chrome extension that lets students simulate hypothetical assignments and instantly see the impact on their grade. Supports weighted/unweighted grading, GPA projection, multiple themes, and undo/redo — all running 100% locally in the browser.
 
 `Chrome Extension` `Vanilla JS` `Manifest V3`
@@ -26,63 +23,82 @@ Chrome extension that lets students simulate hypothetical assignments and instan
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Live-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/focus-grade-calculator/kgmcmnipeaiklodeglhndfiniojdaggo)
 [![GitHub](https://img.shields.io/badge/Source-Public-181717?style=flat&logo=github)](https://github.com/SebastianLeonD/focus-grade-calculator)
 
-</td>
-<td width="50%" valign="top">
+<p>
+  <img src="images/focus-grade-1.jpg" width="49%" />
+  <img src="images/focus-grade-2.jpg" width="49%" />
+</p>
+<p>
+  <img src="images/focus-gpa-1.png" width="49%" />
+  <img src="images/focus-gpa-2.png" width="49%" />
+</p>
+
+---
 
 #### [leonis.study](https://leonis.study)
+
 AI-powered study platform that syncs with your school's Canvas LMS, pulls in all your course materials, and generates study guides, quizzes, and flashcards using AI. Includes an AI tutor, real-time sync, and Stripe-powered subscriptions.
 
 `React` `TypeScript` `Supabase` `Gemini AI` `Stripe`
 
 [![Live Site](https://img.shields.io/badge/leonis.study-Live-1f6feb?style=flat&logo=googlechrome&logoColor=white)](https://leonis.study)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<p>
+  <img src="images/leonis-landing.png" width="100%" />
+</p>
+<p>
+  <img src="images/leonis-dashboard.png" width="49%" />
+  <img src="images/leonis-study-guide.png" width="49%" />
+</p>
+
+---
 
 #### [Reminders](https://github.com/SebastianLeonD/reminderapp)
+
 Voice-first, AI-powered reminder app. Speak naturally and AI handles categories, priorities, timing, and alert schedules. Built with a simple stack — FastAPI backend, single-file PWA frontend, SQLite storage, and Gemini for natural language parsing.
 
 `Python` `FastAPI` `SQLite` `Gemini AI` `PWA`
 
 [![GitHub](https://img.shields.io/badge/Source-Open_Source-181717?style=flat&logo=github)](https://github.com/SebastianLeonD/reminderapp)
 
-</td>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="images/reminder-today.PNG" width="30%" />
+  <img src="images/reminder-create.PNG" width="30%" />
+  <img src="images/reminder-detail.PNG" width="30%" />
+</p>
 
-#### JavaVision
-Browser-based Java IDE built for students. Write Java code and visualize exactly what it does — step through execution, see the stack and heap in real time, and get AI-powered explanations. Designed to make abstract CS concepts tangible.
-
-`Next.js` `TypeScript` `Monaco Editor` `Gemini AI` `Docker`
-
-![In Development](https://img.shields.io/badge/Status-In_Development-d29922?style=flat)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### AI Study Helper
-Chrome extension that puts an AI assistant right in your browser. Highlight text to get explanations, take screenshots for AI analysis, and chat with an AI tutor from any webpage — including built-in support for Canvas LMS quizzes.
-
-`Chrome Extension` `Vanilla JS` `Gemini AI` `Manifest V3`
-
-![Private](https://img.shields.io/badge/Source-Private-6e7681?style=flat&logo=lock&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
+---
 
 #### The Leon Advisor
+
 AI-powered personal financial adviser. Helps users manage and understand their finances through intelligent conversations and data-driven insights.
 
 `Next.js` `TypeScript` `Prisma` `AI`
 
 ![Private](https://img.shields.io/badge/Source-Private-6e7681?style=flat&logo=lock&logoColor=white)
 
-</td>
-</tr>
-</table>
+<p>
+  <img src="images/leon-advisor.png" width="100%" />
+</p>
+
+---
+
+#### JavaVision
+
+Browser-based Java IDE built for students. Write Java code and visualize exactly what it does — step through execution, see the stack and heap in real time, and get AI-powered explanations. Designed to make abstract CS concepts tangible.
+
+`Next.js` `TypeScript` `Monaco Editor` `Gemini AI` `Docker`
+
+![In Development](https://img.shields.io/badge/Status-In_Development-d29922?style=flat)
+
+---
+
+#### AI Study Helper
+
+Chrome extension that puts an AI assistant right in your browser. Highlight text to get explanations, take screenshots for AI analysis, and chat with an AI tutor from any webpage — including built-in support for Canvas LMS quizzes.
+
+`Chrome Extension` `Vanilla JS` `Gemini AI` `Manifest V3`
+
+![Private](https://img.shields.io/badge/Source-Private-6e7681?style=flat&logo=lock&logoColor=white)
 
 ---
 
