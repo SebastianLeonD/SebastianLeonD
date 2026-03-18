@@ -1,8 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Sebastian%20Leon&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=CS%20Student%20%E2%80%A2%20Building%20with%20AI&descSize=18&descColor=8b949e&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Sebastian%20Leon&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=HS%20Junior%20%E2%80%A2%20Building%20Before%20They%20Teach%20It&descSize=18&descColor=8b949e&descAlignY=55" />
 
 ### Hey, I'm Sebastian
 
-I'm a CS student who builds real products by leveraging AI as a force multiplier. I don't just prompt — I architect, ship, and iterate. Everything here is something I've built, launched, or actively maintain.
+I'm a high school junior who's genuinely into all of it — cybersecurity, computer science, computer engineering, anything under the tech umbrella. Right now I'm exploring all of these pathways so I can figure out where I want to go deep.
+
+My philosophy is simple: I'd rather build things now than wait for a class to teach me how. I've taken AP CSP and I'm currently in AP CSA, but the projects below go way beyond what's covered in those courses. I use AI as a tool to build at a level I haven't formally learned yet — and when I eventually do learn it in a classroom, I already have the context to understand it faster. Building first, learning the theory after, has been the cheat code.
+
+Everything here is something I've shipped, launched, or actively maintain.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianleondiaz)
 
@@ -75,15 +79,5 @@ AI-powered personal financial adviser. Helps users manage and understand their f
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
----
-
-<details>
-<summary><b>GitHub Stats</b></summary>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebastianLeonD&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianLeonD&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb" width="48%" />
-</p>
-</details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" />
