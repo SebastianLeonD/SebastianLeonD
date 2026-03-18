@@ -19,7 +19,7 @@ I like to build before I learn — there's no reason to sit around waiting. Inno
 | **Reminders** | Voice-first, AI-powered reminder app — speak naturally and AI parses everything | [![Repo](https://img.shields.io/badge/Source-181717?style=flat&logo=github)](https://github.com/SebastianLeonD/reminderapp) |
 | **The Leon Advisor** | AI-powered personal financial adviser with real-time market data and investment plans | [![Repo](https://img.shields.io/badge/Showcase-181717?style=flat&logo=github)](https://github.com/SebastianLeonD/the-leon-advisor) |
 | **JavaVision** | Browser-based Java IDE that visualizes code execution — stack, heap, and step-by-step debugging | ![In Dev](https://img.shields.io/badge/In_Development-d29922?style=flat) |
-| **AI Study Helper** | Chrome extension — AI assistant on any webpage with screenshot analysis and Canvas LMS support | ![Private](https://img.shields.io/badge/Private-6e7681?style=flat) |
+
 
 ---
 
