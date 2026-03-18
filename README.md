@@ -64,7 +64,7 @@ AI-powered personal financial adviser. Helps users manage and understand their f
 
 ---
 
-### Tech I Work With
+### Tech I've Worked With
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
