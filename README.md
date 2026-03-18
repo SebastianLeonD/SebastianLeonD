@@ -4,7 +4,7 @@
 
 I'm a high school junior who's genuinely into all of it — cybersecurity, computer science, computer engineering, anything under the tech umbrella. Right now I'm exploring all of these pathways so I can figure out where I want to go deep.
 
-My philosophy is simple: I'd rather build things now than wait for a class to teach me how. I've taken AP CSP and I'm currently in AP CSA, but the projects below go way beyond what's covered in those courses. I use AI as a tool to build at a level I haven't formally learned yet — and when I eventually do learn it in a classroom, I already have the context to understand it faster. Building first, learning the theory after, has been the cheat code.
+I like to build before I learn — there's no reason to sit around waiting. Innovating with AI has introduced me to concepts a regular CS student would have waited years to touch. By leveraging AI as my assistant, I've been able to create even when I barely know the underlying theory. Why wait to learn when you can learn as you create?
 
 Everything here is something I've shipped, launched, or actively maintain.
 
