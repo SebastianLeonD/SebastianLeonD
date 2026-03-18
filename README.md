@@ -51,6 +51,28 @@ Voice-first, AI-powered reminder app. Speak naturally and AI handles categories,
 </td>
 <td width="50%" valign="top">
 
+#### JavaVision
+Browser-based Java IDE built for students. Write Java code and visualize exactly what it does — step through execution, see the stack and heap in real time, and get AI-powered explanations. Designed to make abstract CS concepts tangible.
+
+`Next.js` `TypeScript` `Monaco Editor` `Gemini AI` `Docker`
+
+![In Development](https://img.shields.io/badge/Status-In_Development-d29922?style=flat)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### AI Study Helper
+Chrome extension that puts an AI assistant right in your browser. Highlight text to get explanations, take screenshots for AI analysis, and chat with an AI tutor from any webpage — including built-in support for Canvas LMS quizzes.
+
+`Chrome Extension` `Vanilla JS` `Gemini AI` `Manifest V3`
+
+![Private](https://img.shields.io/badge/Source-Private-6e7681?style=flat&logo=lock&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
 #### The Leon Advisor
 AI-powered personal financial adviser. Helps users manage and understand their finances through intelligent conversations and data-driven insights.
 
@@ -77,6 +99,7 @@ AI-powered personal financial adviser. Helps users manage and understand their f
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
 
