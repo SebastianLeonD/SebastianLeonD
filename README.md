@@ -2,7 +2,7 @@
 
 ### Hey, I'm Sebastian
 
-I'm a high school junior who's genuinely into all of it — cybersecurity, computer science, computer engineering, anything under the tech umbrella. Right now I'm exploring all of these pathways so I can figure out where I want to go deep.
+I'm a high school senior who's genuinely into all of it — cybersecurity, computer science, computer engineering, anything under the tech umbrella. Right now I'm exploring all of these pathways so I can figure out where I want to go deep.
 
 I like to build before I learn — there's no reason to sit around waiting. Innovating with AI has introduced me to concepts a regular CS student would have waited years to touch. By leveraging AI as my assistant, I've been able to create even when I barely know the underlying theory. Why wait to learn when you can learn as you create?
 
