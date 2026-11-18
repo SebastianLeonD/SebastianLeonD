@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Sebastian%20Leon&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=HS%20Junior%20%E2%80%A2%20Building%20Before%20They%20Teach%20It&descSize=18&descColor=8b949e&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Sebastian%20Leon&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=HS%20Senior%20%E2%80%A2%20Building%20Before%20They%20Teach%20It&descSize=18&descColor=8b949e&descAlignY=55" />
 
 ### Hey, I'm Sebastian
 
@@ -15,11 +15,10 @@ I like to build before I learn — there's no reason to sit around waiting. Inno
 | Project | What It Is | Links |
 |---------|-----------|-------|
 | **[leonis.study](https://leonis.study)** | AI study platform — syncs with Canvas LMS, generates study guides, quizzes, and flashcards with an AI tutor | [![Live](https://img.shields.io/badge/leonis.study-Live-1f6feb?style=flat)](https://leonis.study) [![Repo](https://img.shields.io/badge/Showcase-181717?style=flat&logo=github)](https://github.com/SebastianLeonD/leonis.study) |
-| **[Focus Grade Calculator](https://chromewebstore.google.com/detail/focus-grade-calculator/kgmcmnipeaiklodeglhndfiniojdaggo)** | Chrome extension for simulating hypothetical grades on the Focus gradebook | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-Live-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/focus-grade-calculator/kgmcmnipeaiklodeglhndfiniojdaggo) [![Repo](https://img.shields.io/badge/Source-181717?style=flat&logo=github)](https://github.com/SebastianLeonD/focus-grade-calculator) |
+| **[Focus Grade Calculator](https://chromewebstore.google.com/detail/focus-grade-calculator/kgmcmnipeaiklodeglhndfiniojdaggo)** | Chrome extension for simulating hypothetical grades on the Focus gradebook | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-Live-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/focus-grade-calculator/kgmcmnipeaiklodeglhndfiniojdaggo) [![Repo](https://img.shields.io/badge/Source-181717?style=flat&logo=github)](https://github.com/SebastianLeonD/FocusGradebook_extension) |
+| **BudgetPay** | AI sinking-fund budgeting app — describe expenses in plain language, AI turns them into buckets, and every payday it proposes moving money into each one for you to approve (React Native + Expo, Firebase, Plaid) | ![In Dev](https://img.shields.io/badge/In_Development-d29922?style=flat) |
+| **The Leon Advisor** | AI-powered personal financial adviser and paper-trading lab — portfolio chat, stock screener, investor-persona panel, Monte Carlo projections | [![Repo](https://img.shields.io/badge/Showcase-181717?style=flat&logo=github)](https://github.com/SebastianLeonD/the-leon-advisor) |
 | **Reminders** | Voice-first, AI-powered reminder app — speak naturally and AI parses everything | [![Repo](https://img.shields.io/badge/Source-181717?style=flat&logo=github)](https://github.com/SebastianLeonD/reminderapp) |
-| **The Leon Advisor** | AI-powered personal financial adviser with real-time market data and investment plans | [![Repo](https://img.shields.io/badge/Showcase-181717?style=flat&logo=github)](https://github.com/SebastianLeonD/the-leon-advisor) |
-| **JavaVision** | Browser-based Java IDE that visualizes code execution — stack, heap, and step-by-step debugging | ![In Dev](https://img.shields.io/badge/In_Development-d29922?style=flat) |
-
 
 ---
 
@@ -37,6 +36,11 @@ I like to build before I learn — there's no reason to sit around waiting. Inno
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" />
